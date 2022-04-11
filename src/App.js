@@ -39,7 +39,7 @@ function CounterFun () {
 
 function App() {
   return (
-   return CounterFun();
+    CounterFun();
   );
 }
 
