@@ -39,8 +39,8 @@ function CounterFun () {
 
 function App() {
   return (
-    CounterFun();
-  );
+    CounterFun()
+  )
 }
 
 export default App;
